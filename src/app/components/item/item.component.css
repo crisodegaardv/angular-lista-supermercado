@@ -1,0 +1,38 @@
+.row {
+    display: flex;
+    box-sizing: border-box;
+}
+
+div {
+    margin: 5px;
+}
+
+.titulo {
+    display: flex;
+    width: 50%;
+    
+}
+
+.titulo input {
+    margin-right: 10px;
+}
+
+.titulo input {
+    padding-right: 5px;
+}
+
+.precio {
+    width: 15%;
+    padding: 0 5px;
+}
+
+.cantidad {
+    width: 10%;
+    padding: 0 5px;
+}
+
+.elm-btn {
+    margin-left: 20px;
+}
+
+
